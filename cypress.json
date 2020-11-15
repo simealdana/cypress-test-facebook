@@ -1,0 +1,7 @@
+{
+    "defaultCommandTimeout": 10000,
+    "pageLoadTimeout": 60000,
+    "responseTimeout" : 60000,
+    "watchForFileChanges": false,
+    "chromeWebSecurity": false
+}
